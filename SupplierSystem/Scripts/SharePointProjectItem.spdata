@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Scripts\" Type="ElementManifest" />
+    <ProjectItemFile Source="App.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.8.2.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.8.2.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.8.2.intellisense.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="underscore-min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.9.1.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="knockout-3.4.0.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="linq.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="linq-vsdoc.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="camljs.js" Target="Scripts\" Type="ElementFile" />
+  </Files>
+</ProjectItem>
